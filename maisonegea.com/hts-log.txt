@@ -1,0 +1,116 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 06 Jun 2022 12:57:44 at https://maisonegea.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://maisonegea.com/ -O1 "C:\Users\intel\Downloads\maisonegea" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:58:15	Error: 	"Method Not Allowed" (405) at link https://maisonegea.com/xmlrpc.php (from https://maisonegea.com/)
+13:00:22	Warning: 	Moved Permanently for https://maisonegea.com/?p=116
+13:00:22	Warning: 	File has moved from https://maisonegea.com/?p=116 to https://maisonegea.com/custom/
+13:00:27	Warning: 	Moved Permanently for https://maisonegea.com/?p=2
+13:00:27	Warning: 	File has moved from https://maisonegea.com/?p=2 to https://maisonegea.com/about/
+13:00:31	Warning: 	Moved Permanently for https://maisonegea.com/?p=7
+13:00:31	Warning: 	File has moved from https://maisonegea.com/?p=7 to https://maisonegea.com/cart/
+13:00:31	Warning: 	Moved Permanently for https://maisonegea.com/?p=155
+13:00:31	Warning: 	File has moved from https://maisonegea.com/?p=155 to https://maisonegea.com/product/gisele-sunrise/
+13:00:31	Warning: 	Found for https://maisonegea.com/cart/?add-to-cart=428
+13:00:31	Warning: 	File has moved from https://maisonegea.com/cart/?add-to-cart=428 to https://maisonegea.com/cart/
+13:00:31	Warning: 	Moved Permanently for https://maisonegea.com/?p=227
+13:00:31	Warning: 	File has moved from https://maisonegea.com/?p=227 to https://maisonegea.com/product/olympe-coral-pearl/
+13:00:31	Warning: 	Found for https://maisonegea.com/cart/?add-to-cart=408
+13:00:31	Warning: 	File has moved from https://maisonegea.com/cart/?add-to-cart=408 to https://maisonegea.com/cart/
+13:00:31	Warning: 	Moved Permanently for https://maisonegea.com/?p=243
+13:00:31	Warning: 	File has moved from https://maisonegea.com/?p=243 to https://maisonegea.com/product/wilma-ivy/
+13:00:31	Warning: 	Found for https://maisonegea.com/cart/?add-to-cart=389
+13:00:31	Warning: 	File has moved from https://maisonegea.com/cart/?add-to-cart=389 to https://maisonegea.com/cart/
+13:00:31	Warning: 	Moved Permanently for https://maisonegea.com/?p=161
+13:00:31	Warning: 	File has moved from https://maisonegea.com/?p=161 to https://maisonegea.com/product/hubertine-azure/
+13:00:31	Warning: 	Found for https://maisonegea.com/cart/?add-to-cart=426
+13:00:31	Warning: 	File has moved from https://maisonegea.com/cart/?add-to-cart=426 to https://maisonegea.com/cart/
+13:00:31	Warning: 	Moved Permanently for https://maisonegea.com/?p=190
+13:00:31	Warning: 	File has moved from https://maisonegea.com/?p=190 to https://maisonegea.com/product/joan-lipstick/
+13:00:31	Warning: 	Found for https://maisonegea.com/cart/?add-to-cart=418
+13:00:31	Warning: 	File has moved from https://maisonegea.com/cart/?add-to-cart=418 to https://maisonegea.com/cart/
+13:00:31	Warning: 	Moved Permanently for https://maisonegea.com/?p=140
+13:00:31	Warning: 	File has moved from https://maisonegea.com/?p=140 to https://maisonegea.com/product/gisele-seashore/
+13:00:31	Warning: 	Found for https://maisonegea.com/cart/?add-to-cart=430
+13:00:31	Warning: 	File has moved from https://maisonegea.com/cart/?add-to-cart=430 to https://maisonegea.com/cart/
+13:00:31	Warning: 	Moved Permanently for https://maisonegea.com/?p=291
+13:00:31	Warning: 	File has moved from https://maisonegea.com/?p=291 to https://maisonegea.com/shipping-and-delivery/
+13:00:31	Warning: 	Moved Permanently for https://maisonegea.com/?p=300
+13:00:31	Warning: 	File has moved from https://maisonegea.com/?p=300 to https://maisonegea.com/contact-us/
+13:00:31	Warning: 	Moved Permanently for https://maisonegea.com/?p=307
+13:00:31	Warning: 	File has moved from https://maisonegea.com/?p=307 to https://maisonegea.com/terms/
+13:00:31	Error: 	"Not Found" (404) at link https://maisonegea.com/e (from https://maisonegea.com/wp-content/themes/maisonegea-studiokrabb/dist/assets/js/index.min.js?v=1636386867)
+13:00:31	Error: 	"Not Found" (404) at link https://maisonegea.com/i.params.url (from https://maisonegea.com/wp-content/themes/maisonegea-studiokrabb/dist/assets/js/index.min.js?v=1636386867)
+13:00:31	Warning: 	Moved Permanently for https://maisonegea.com/?p=148
+13:00:31	Warning: 	File has moved from https://maisonegea.com/?p=148 to https://maisonegea.com/product/gisele-storm/
+13:00:31	Warning: 	Found for https://maisonegea.com/cart/?add-to-cart=429
+13:00:31	Warning: 	File has moved from https://maisonegea.com/cart/?add-to-cart=429 to https://maisonegea.com/cart/
+13:00:31	Warning: 	Moved Permanently for https://maisonegea.com/?p=168
+13:00:31	Warning: 	File has moved from https://maisonegea.com/?p=168 to https://maisonegea.com/product/hubertine-emerald/
+13:00:31	Warning: 	Found for https://maisonegea.com/cart/?add-to-cart=425
+13:00:31	Warning: 	File has moved from https://maisonegea.com/cart/?add-to-cart=425 to https://maisonegea.com/cart/
+13:00:31	Warning: 	Moved Permanently for https://maisonegea.com/?p=174
+13:00:31	Warning: 	File has moved from https://maisonegea.com/?p=174 to https://maisonegea.com/product/hubertine-lime/
+13:00:31	Warning: 	Found for https://maisonegea.com/cart/?add-to-cart=424
+13:00:31	Warning: 	File has moved from https://maisonegea.com/cart/?add-to-cart=424 to https://maisonegea.com/cart/
+13:00:31	Warning: 	Moved Permanently for https://maisonegea.com/?p=180
+13:00:31	Warning: 	File has moved from https://maisonegea.com/?p=180 to https://maisonegea.com/product/hubertine-melon/
+13:00:31	Warning: 	Found for https://maisonegea.com/cart/?add-to-cart=423
+13:00:31	Warning: 	File has moved from https://maisonegea.com/cart/?add-to-cart=423 to https://maisonegea.com/cart/
+13:00:31	Warning: 	Moved Permanently for https://maisonegea.com/?p=185
+13:00:31	Warning: 	File has moved from https://maisonegea.com/?p=185 to https://maisonegea.com/product/hubertine-peony/
+13:00:31	Warning: 	Found for https://maisonegea.com/cart/?add-to-cart=421
+13:00:31	Warning: 	File has moved from https://maisonegea.com/cart/?add-to-cart=421 to https://maisonegea.com/cart/
+13:00:31	Warning: 	Moved Permanently for https://maisonegea.com/?p=195
+13:00:31	Warning: 	File has moved from https://maisonegea.com/?p=195 to https://maisonegea.com/product/joan-morning/
+13:00:32	Warning: 	Found for https://maisonegea.com/cart/?add-to-cart=417
+13:00:32	Warning: 	File has moved from https://maisonegea.com/cart/?add-to-cart=417 to https://maisonegea.com/cart/
+13:00:32	Warning: 	Moved Permanently for https://maisonegea.com/?p=201
+13:00:32	Warning: 	File has moved from https://maisonegea.com/?p=201 to https://maisonegea.com/product/joan-onyx/
+13:00:32	Warning: 	Found for https://maisonegea.com/cart/?add-to-cart=416
+13:00:32	Warning: 	File has moved from https://maisonegea.com/cart/?add-to-cart=416 to https://maisonegea.com/cart/
+13:00:32	Warning: 	Moved Permanently for https://maisonegea.com/?p=207
+13:00:32	Warning: 	File has moved from https://maisonegea.com/?p=207 to https://maisonegea.com/product/joan-pool/
+13:00:32	Warning: 	Found for https://maisonegea.com/cart/?add-to-cart=414
+13:00:32	Warning: 	File has moved from https://maisonegea.com/cart/?add-to-cart=414 to https://maisonegea.com/cart/
+13:00:32	Warning: 	Moved Permanently for https://maisonegea.com/?p=216
+13:00:32	Warning: 	File has moved from https://maisonegea.com/?p=216 to https://maisonegea.com/product/joan-straw/
+13:00:32	Warning: 	Found for https://maisonegea.com/cart/?add-to-cart=413
+13:00:32	Warning: 	File has moved from https://maisonegea.com/cart/?add-to-cart=413 to https://maisonegea.com/cart/
+13:00:32	Warning: 	Moved Permanently for https://maisonegea.com/?p=492
+13:00:32	Warning: 	File has moved from https://maisonegea.com/?p=492 to https://maisonegea.com/product/joan-summer/
+13:00:32	Warning: 	Found for https://maisonegea.com/cart/?add-to-cart=411
+13:00:32	Warning: 	File has moved from https://maisonegea.com/cart/?add-to-cart=411 to https://maisonegea.com/cart/
+13:00:32	Warning: 	Moved Permanently for https://maisonegea.com/?p=232
+13:00:32	Warning: 	File has moved from https://maisonegea.com/?p=232 to https://maisonegea.com/product/olympe-golden-blossom/
+13:00:32	Warning: 	Found for https://maisonegea.com/cart/?add-to-cart=406
+13:00:32	Warning: 	File has moved from https://maisonegea.com/cart/?add-to-cart=406 to https://maisonegea.com/cart/
+13:00:32	Warning: 	Moved Permanently for https://maisonegea.com/?p=515
+13:00:32	Warning: 	File has moved from https://maisonegea.com/?p=515 to https://maisonegea.com/product/olympe-warm-lavender/
+13:00:32	Warning: 	Found for https://maisonegea.com/cart/?add-to-cart=520
+13:00:32	Warning: 	File has moved from https://maisonegea.com/cart/?add-to-cart=520 to https://maisonegea.com/cart/
+13:00:32	Warning: 	Moved Permanently for https://maisonegea.com/?p=237
+13:00:32	Warning: 	File has moved from https://maisonegea.com/?p=237 to https://maisonegea.com/product/olympe-lakeside/
+13:00:32	Warning: 	Found for https://maisonegea.com/cart/?add-to-cart=404
+13:00:32	Warning: 	File has moved from https://maisonegea.com/cart/?add-to-cart=404 to https://maisonegea.com/cart/
+13:00:32	Warning: 	Moved Permanently for https://maisonegea.com/?p=254
+13:00:32	Warning: 	File has moved from https://maisonegea.com/?p=254 to https://maisonegea.com/product/wilma-jungle/
+13:00:32	Warning: 	Found for https://maisonegea.com/cart/?add-to-cart=372
+13:00:32	Warning: 	File has moved from https://maisonegea.com/cart/?add-to-cart=372 to https://maisonegea.com/cart/
+13:00:32	Warning: 	Moved Permanently for https://maisonegea.com/?p=260
+13:00:32	Warning: 	File has moved from https://maisonegea.com/?p=260 to https://maisonegea.com/product/wilma-sand/
+13:00:32	Warning: 	Found for https://maisonegea.com/cart/?add-to-cart=266
+13:00:32	Warning: 	File has moved from https://maisonegea.com/cart/?add-to-cart=266 to https://maisonegea.com/cart/
+13:00:32	Warning: 	Moved Permanently for https://maisonegea.com/?p=281
+13:00:32	Warning: 	File has moved from https://maisonegea.com/?p=281 to https://maisonegea.com/custom/special-project-3/
+13:00:32	Warning: 	Moved Permanently for https://maisonegea.com/?p=270
+13:00:32	Warning: 	File has moved from https://maisonegea.com/?p=270 to https://maisonegea.com/custom/special-project-2/
+13:00:32	Warning: 	Moved Permanently for https://maisonegea.com/?p=277
+13:00:32	Warning: 	File has moved from https://maisonegea.com/?p=277 to https://maisonegea.com/custom/special-project-1/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 47 seconds : 286 links scanned, 230 files written (21295948 bytes overall) [18235291 bytes received at 109193 bytes/sec], 4262318 bytes transferred using HTTP compression in 175 files, ratio 22%, 7.9 requests per connection
+(3 errors, 102 warnings, 0 messages)
